@@ -43,6 +43,8 @@ This project uses a selection of audio features available via the Spotify API:
 - `tempo` — beats per minute
 - `liveness`, `loudness`, `key`, `mode`, `speechiness`, `duration_ms`, `time_signature`
 
+![radar_chart](https://github.com/user-attachments/assets/ac3f6d99-3e1a-4c2f-b1a7-88d2bfb723f5)
+
 ---
 
 ## ⚙️ Methods and Techniques
